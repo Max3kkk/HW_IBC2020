@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597069965 source:c:\github\hw_ibc2020\1st_day\2nd\main.cpp
+	<iostream>
+	<cmath>
+
